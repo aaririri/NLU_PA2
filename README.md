@@ -26,11 +26,18 @@ TrainingNames.txt Dataset of Indian names
 ```bash
 python prob1.py
 ```
-Problem 2: Name Generation
+### Problem 2: Name Generation
+```bash
 python prob2.py
-Requirements
+```
+### Requirements
+```bash
 pip install numpy matplotlib scikit-learn gensim wordcloud pymupdf torch
-Author
+```
+
+---
+
+## Author
 
 Aarohi Dharmadhikari
 B22AI001
