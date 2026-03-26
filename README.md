@@ -14,7 +14,7 @@ B22AI001-A2/
 │── prob2.py
 │── corpus.txt
 │── TrainingNames.txt
-│── README.md
+README.md
 ```
 
 ### Files Description
